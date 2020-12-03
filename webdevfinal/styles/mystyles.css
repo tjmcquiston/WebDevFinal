@@ -1,0 +1,13 @@
+/*Tanner McQuiston, 12/3/2020*/
+.background {
+    background-color: lightgray;
+}
+.links{
+    color: white;
+}
+h1{
+    font-style: italic;
+}
+.name{
+    text-decoration: underline;
+}
